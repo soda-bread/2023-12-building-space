@@ -1,1 +1,4 @@
 Waiting for the Copilot, generate new code.
+import numpy
+
+a = np.array()
